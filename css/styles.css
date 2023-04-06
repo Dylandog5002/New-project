@@ -176,7 +176,7 @@ footer p {
 		color: #000000;
 	}
 .frame{
-color:black;
+color:white;
 box-sizing: border-box;
 
 }
@@ -193,7 +193,7 @@ box-sizing: border-box;
 	font-size: 140%;
 	font-weight: 300;
 	text-align: center;
-	color: black;
+	color: white;
 	margin: -16px -16px 16px -16px;
 }
 .form-style-6 input[type="text"],
