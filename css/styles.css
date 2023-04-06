@@ -188,7 +188,7 @@ box-sizing: border-box;
 	background: #F7F7F7;
 }
 .form-style-6 h1{
-	background:orange;
+	background:#f55400;
 	padding: 20px 0;
 	font-size: 140%;
 	font-weight: 300;
@@ -246,7 +246,7 @@ box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	width: 100%;
 	padding: 3%;
-	background:orange;
+	background:#f55400;
 	border-bottom: 2px solid Black;
 	border-top-style: none;
 	border-right-style: none;
