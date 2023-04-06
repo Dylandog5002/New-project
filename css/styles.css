@@ -167,7 +167,7 @@ footer p {
 
 /*Style rule for form element */
 	form {
-		background-color: #FFFFFF;
+		background-color:white ;
 		padding: 1em;
 	}
 	
@@ -185,7 +185,7 @@ box-sizing: border-box;
 	max-width: 400px;
 	margin: 10px auto;
 	padding: 16px;
-	background: #F7F7F7;
+	background: #f55400;
 }
 .form-style-6 h1{
 	background:#f55400;
